@@ -1,0 +1,107 @@
+/* ---------footer upper------------ */
+
+.pageseo-info-link {
+  font-size: 16px;
+  width: 1200px;
+  margin: 0 auto;
+  width: 1200px;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.6rem;
+}
+#desc-para {
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.pageseo-info-link .block {
+  font-size: 16px;
+
+  margin: 16px 0;
+  border: 1px solid #dae2ed;
+  background-color: #fff;
+  padding: 12px 16px;
+}
+
+.pageseo-info-link .block:after {
+  display: block;
+  content: " ";
+  height: 0;
+  clear: both;
+}
+
+.pageseo-info-link .label {
+  font-size: 16px;
+
+  float: left;
+  color: #666;
+  display: inline;
+  word-wrap: break-word;
+  margin-right: 12px;
+  width: 160px;
+}
+
+.pageseo-info-link .content {
+  width: auto;
+  margin-left: 172px;
+}
+
+.pageseo-info-link .content a {
+  color: #004b91;
+  text-decoration: none;
+  color: rgb(0, 75, 145);
+  text-decoration-line: none;
+  text-decoration-thickness: initial;
+  text-decoration-style: initial;
+  text-decoration-color: initial;
+}
+
+.pageseo-info-link .linklist a {
+  display: inline-block;
+  margin-right: 12px;
+  width: 320px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #666;
+  display: inline-block;
+  margin-right: 12px;
+  width: 320px;
+  white-space: nowrap;
+}
+
+a:hover {
+  color: #ff7519;
+  color: rgb(255, 117, 25);
+}
+
+/* -----------footer bottom------------ */
+.ui-footer {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #f5f5f5;
+  padding-bottom: 20px;
+}
+.ui-footer a {
+  color: #999 !important;
+  text-decoration: none !important;
+}
+#ui-footer1,
+#ui-footer2,
+#ui-footer3,
+#ui-footer4 {
+  color: #999;
+  text-decoration: none !important ;
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.footer-upper {
+  margin: 16px;
+  width: 75rem;
+  height: 80px;
+  box-shadow: 0 0px 8px rgba(212, 212, 212, 0.4);
+  background-color: #ffffff;
+  border: 1px solid #dae2ed;
+}
